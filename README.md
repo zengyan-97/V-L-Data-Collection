@@ -1,1 +1,2 @@
-# V-L-Data-Collection
+# Vision and Language Data Collection (WIP)
+
